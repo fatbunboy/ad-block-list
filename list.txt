@@ -9,7 +9,6 @@ ads.yap.yahoo.com
 external.xx.fbcdn.net
 adservice.google.com.hk
 adservice.google.com
-app1933.kmb.hk
 atg-etbuf2016-prd-iad1-114281-1326216375.us-east-1.elb.amazonaws.com
 events-endpoint-c-394794954.us-east-1.elb.amazonaws.com
 events-endpoint-d-1130254936.us-east-1.elb.amazonaws.com
@@ -32,5 +31,12 @@ ybp.yahoo.com
 gysm.yahoodns.net
 hkg.aastocks.com
 query2.finance.yahoo.com
+app1933.eastasia.cloudapp.azure.com
 app1933.move-hub.net
-ad.appier.net
+c2shb.pubgw.yahoo.com
+applovin.com
+appier.net
+applvn.com
+pubgw.yahoo.com
+firebaselogging-pa.googleapis.com
+s0.2mdn.net
